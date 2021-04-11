@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eador_M_of_the_B_W_Launcher", "Eador_M_of_the_B_W_Launcher\Eador_M_of_the_B_W_Launcher.csproj", "{9490306D-A0A7-429C-9315-7AB36888FA9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATAGame_Library", "DATAGame_Library\DATAGame_Library.csproj", "{D82F9DAA-9F71-4FC7-AA17-FDB5A4FF74E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9490306D-A0A7-429C-9315-7AB36888FA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9490306D-A0A7-429C-9315-7AB36888FA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9490306D-A0A7-429C-9315-7AB36888FA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9490306D-A0A7-429C-9315-7AB36888FA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82F9DAA-9F71-4FC7-AA17-FDB5A4FF74E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82F9DAA-9F71-4FC7-AA17-FDB5A4FF74E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82F9DAA-9F71-4FC7-AA17-FDB5A4FF74E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82F9DAA-9F71-4FC7-AA17-FDB5A4FF74E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807D89B1-9C60-473E-9676-DA0D4550111D}
+	EndGlobalSection
+EndGlobal
