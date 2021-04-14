@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DATAGame_Library.DATA
 {
-    class DATAGame
+    public class DATAGame
     {
         /// <summary>
         /// Задать настройки по новой
