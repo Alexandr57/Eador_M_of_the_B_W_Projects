@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eador_M_of_the_B_W_Launcher
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATAGame_Library", "DATAGame_Library\DATAGame_Library.csproj", "{D82F9DAA-9F71-4FC7-AA17-FDB5A4FF74E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageService_Library", "MessageService_Library\MessageService_Library.csproj", "{81232BF6-D553-4C46-9E6F-D40F4E156C32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D82F9DAA-9F71-4FC7-AA17-FDB5A4FF74E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D82F9DAA-9F71-4FC7-AA17-FDB5A4FF74E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D82F9DAA-9F71-4FC7-AA17-FDB5A4FF74E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81232BF6-D553-4C46-9E6F-D40F4E156C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81232BF6-D553-4C46-9E6F-D40F4E156C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81232BF6-D553-4C46-9E6F-D40F4E156C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81232BF6-D553-4C46-9E6F-D40F4E156C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
